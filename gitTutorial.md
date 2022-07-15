@@ -11,6 +11,7 @@
 
 2. Слияние веток
 * *git merge ИМЯ_ВЕТКИ* - сливаем ветку ИМЯ_ВЕТКИ в текущую
+* *git merge newCreate* - сливаем ветку newCreate в master
 
 3. Конфликты
 * Fast-forward
