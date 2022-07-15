@@ -7,6 +7,7 @@
 * *git branch ИМЯ_ВЕТКИ* - создание ветки ИМЯ_ВНТКИ
 * *git checkout ИМЯ_ВЕТКИ* - переход на ветку ИМЯ_ВЕТКИ
 * *git checkout newCreate* - создал новую ветку newCreate
+* *git checkout newCreate* - еще раз вернулся
 
 2. Слияние веток
 * *git merge ИМЯ_ВЕТКИ* - сливаем ветку ИМЯ_ВЕТКИ в текущую
